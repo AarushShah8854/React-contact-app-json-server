@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Aashuti",
+      "email": "aashuti@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rocky",
+      "email": "rocky@gmail.com"
+    },
+    {
+      "id": "0231caaa-95e7-4cf9-ba99-715eea1e1af1",
+      "name": "halwa",
+      "email": "halwa@gmail.com"
+    },
+    {
+      "id": "63c5e762-cc9d-439f-b24b-04be9fd071be",
+      "name": "bhindi",
+      "email": "bhindi@gmail.com"
+    },
+    {
+      "id": "7b75abc0-f620-40ff-a023-9da4ceaaee9c",
+      "name": "bhalu",
+      "email": "bhalu@gmail.com"
+    },
+    {
+      "id": "12c5146b-9a8b-42fc-b162-fda7c0113068",
+      "name": "kalu",
+      "email": "kalu@hotmail.com"
+    },
+    {
+      "id": "30e7e985-4ec3-4a6d-9ee2-a8eb5fe6d690",
+      "name": "aloo",
+      "email": "aloo@gmail.com"
+    }
+  ]
+}
